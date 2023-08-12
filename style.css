@@ -41,3 +41,7 @@ a {
 .item:hover {
     background-color: #93506d;
 }
+
+p {
+    font-size: small;
+}
